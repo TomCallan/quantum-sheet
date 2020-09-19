@@ -1,0 +1,15 @@
+else if(functionName == "Asin" {
+        pythonFunctionName = "sympy.asin";}
+}else if(functionName == "Acos" {
+        pythonFunctionName = "sympy.acos";}
+}else if(functionName == "Atan" {
+        pythonFunctionName = "sympy.atan";}
+}else if(functionName == "Csc" {
+        pythonFunctionName = "sympy.csc";}
+}else if(functionName == "Acsc" {
+        pythonFunctionName = "sympy.acsc";}
+}else if(functionName == "Sec" {
+        pythonFunctionName = "sympy.sec";}
+}else if(functionName == "Asec" {
+        pythonFunctionName = "sympy.asec";}
+}
